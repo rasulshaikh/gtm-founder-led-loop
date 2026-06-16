@@ -1,0 +1,11 @@
+Call 1 - Sarah @ BuildFast
+She asked why they need a scoring rubric if the reps already know their ICP. Pushed back on adding another tool to the stack. Eventually said "we tried Clay before but never got it to work properly." Mentioned their biggest problem is reps spending 3 hours a day on research before making any calls.
+
+Call 2 - James @ TechStart
+First question: how is this different from hiring a RevOps person? Assumed that AI scoring would require constant tuning. Was surprised that the enrichment agent runs unattended. Said their board just asked about outbound pipeline predictability for the first time.
+
+Call 3 - Priya @ CloudOps
+Classic RevOps mindset - wanted to see the data before committing. Her assumption was that personalization at scale means worse quality. Showed her our reply rate data (1.5%). She said "that's 3x what we're getting." Asked if it works for technical buyers (DevOps personas). Win: she asked about implementation timeline by end of call.
+
+Call 4 - Elena @ GrowthLoop
+Founder-to-founder conversation. No fluff. She's doing her own outbound, hitting a ceiling at about 20 meaningful conversations/month. Doesn't want to hire an SDR yet. Asked: "can I run this myself or do I need to bring someone in?" The answer is yes, she can run it with 4 hours/week of oversight once it's set up.
