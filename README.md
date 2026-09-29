@@ -27,7 +27,7 @@ Content isn't separate from outbound. It's the signal source. When someone comme
 - They care about the topic
 - Their engagement type tells you how much
 
-That's higher-quality intent than any third-party intent data. The loop builds on itself — conversations generate content ideas, content generates signals, signals generate conversations.
+That's higher-quality intent than any third-party intent data. The loop builds on itself: conversations generate content ideas, content generates signals, signals generate conversations.
 
 ## The tiers
 
@@ -35,7 +35,7 @@ That's higher-quality intent than any third-party intent data. The loop builds o
 |------|-------|-------|------|
 | 1 | 80+ | Hot | Founder sends personally within 24h |
 | 2 | 50-79 | Warm | Email sequence + LinkedIn DM |
-| 3 | <50 | Nurture | Content retarget only — no cold outreach |
+| 3 | <50 | Nurture | Content retarget only: no cold outreach |
 
 ## Setup
 
@@ -58,9 +58,9 @@ python loop/pipeline.py \
 ```
 
 Outputs:
-- `enriched_engagers.csv` — enriched with Apollo (if key set)
-- `scored_engagers.csv` — scored 0-100, tiered
-- `outbound_sequences.csv` — warm email + DM per Tier 1/2 engager
+- `enriched_engagers.csv`: enriched with Apollo (if key set)
+- `scored_engagers.csv`: scored 0-100, tiered
+- `outbound_sequences.csv`: warm email + DM per Tier 1/2 engager
 
 ### Phase by phase
 
